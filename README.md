@@ -6,7 +6,8 @@ Reproducible analysis code for:
 
 Raimo van der Klein (2026)
 
-Paper: [Zenodo DOI forthcoming]
+Paper: https://doi.org/10.5281/zenodo.18956282
+
 
 ---
 
